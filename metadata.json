@@ -1,0 +1,6 @@
+{
+  "name": "ClipForge",
+  "description": "AI viral short-video clipper powered by Flask, yt-dlp, OpenAI Whisper, Google Gemini API, and FFmpeg with a Jetpack Compose companion client.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

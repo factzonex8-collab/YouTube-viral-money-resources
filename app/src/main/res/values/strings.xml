@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ClipForge</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_agent">Agent</string>
+    <string name="nav_clips">Clips</string>
+    <string name="nav_server">Backend</string>
+    <string name="hero_title">YouTube to 9:16 Viral Shorts</string>
+    <string name="hero_subtitle">Whisper transcription, Gemini hook detection, and FFmpeg 9:16 caption burn-in.</string>
+    <string name="youtube_url_label">YouTube Video URL</string>
+    <string name="youtube_url_hint">https://www.youtube.com/watch?v=...</string>
+    <string name="paste_button">Paste</string>
+    <string name="generate_button">Generate Viral Short</string>
+    <string name="processing_button">Processing...</string>
+    <string name="caption_style_label">Caption Style</string>
+    <string name="whisper_model_label">Whisper Model</string>
+    <string name="target_duration_label">Target Duration</string>
+    <string name="save_mp4_button">Save Watermark-Free MP4</string>
+    <string name="server_url_label">Flask Server URL</string>
+    <string name="test_connection">Test Connection</string>
+    <string name="save_server_url">Save URL</string>
+</resources>
